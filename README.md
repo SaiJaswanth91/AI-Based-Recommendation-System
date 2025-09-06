@@ -32,3 +32,6 @@ Computes cosine similarity between items for prediction.
 Provides top-N product recommendations for a chosen user.
 
 Fully self-contained: just run the code to get output.
+
+Output:
+<img width="688" height="307" alt="Image" src="https://github.com/user-attachments/assets/9bc698a7-888e-461d-8ecc-ff4c3fba26fb" />
